@@ -1,0 +1,66 @@
+#input {
+  display: none;
+}
+
+.actions-rec {
+  width: 300px;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.actions-rec .link {
+  width: 130px;
+}
+
+.answer {
+  width: 200px;
+  font-size: 36px;
+  margin: auto;
+}
+
+input {
+  width: 40px;
+  height: 24px;
+  font-size: 16px;
+  text-align: center;
+  margin: 6px;
+}
+
+.anamorf-size, .anamorf-koef {
+  font-size: 24px;
+}
+
+.anamorf-matrix {
+  text-align: center;
+}
+
+.anamorf-draw {
+  text-align: center;
+}
+
+.dropzone div {
+  width: 100px;
+  height: 100px;
+}
+
+.image {
+  text-align: center;
+}
+
+#canv {
+  margin: auto;
+}
+
+.back .link {
+  width: 200px;
+  padding-top: 5px;
+  font-size: 20px;
+  border-style: dashed;
+}
+
+.canv {
+  padding: 10px;
+  border-style: dashed;
+}
